@@ -1,3 +1,5 @@
 collections:
   - pages
 exclude: [vendor]
+
+theme: jekyll-theme-cayman
